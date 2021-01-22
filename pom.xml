@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.curso.ecosistema</groupId>
 	<artifactId>MavenReleasePlugin</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<!-- Definicion del Identificador para poder asociar el user password desde 
 		la etiqueta servers de settings.xml -->
 	<properties>
@@ -13,7 +13,7 @@
 		<developerConnection>scm:git:https://github.com/dlagod/MavenReleasePlugin</developerConnection>
 		<connection>scm:git:https://github.com/dlagod/MavenReleasePlugin</connection>
 		<url>scm:git:https://github.com/dlagod/MavenReleasePlugin</url>
-		<tag>MavenReleasePlugin-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<build>
 		<plugins>
